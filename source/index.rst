@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Iowa Tourism's documentation!
+Welcome to Iowa's Tourist Attractions
 ========================================
 
 Contents:
@@ -12,14 +12,3 @@ Contents:
    :maxdepth: 2
 
    botanicalgarden/botanicalgarden.rst
-
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
