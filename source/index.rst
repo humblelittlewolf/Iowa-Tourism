@@ -11,6 +11,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   botanicalgarden/botanicalgarden.rst
+
+
 
 
 Indices and tables
