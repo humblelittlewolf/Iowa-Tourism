@@ -13,3 +13,4 @@ Contents:
 
    botanicalgarden/botanicalgarden.rst
    ledgesstatepark/ledgesstatepark.rst
+   amanacolonies/amanacolonies.rst
