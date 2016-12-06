@@ -7,11 +7,11 @@ Greater Des Moines Botanical Garden
 
 About
 ------
-	In 1929 a public garden in Des Moines was first formed. After the stock market crash, it was hard to make any progress on this tiny garden. However, a Friends organization started in 1969, which is what is now known as the Des Moines Botanical Center, which finally opened in 1979. This garden was run by the City of Des Moines Parks and Recreation Department. In 2004 it changed management to the Des Moines Water Works, which renamed it to the Des Moines Botanical and Environmental Center. However, that management ended in 2012 and it is now a nonprofit organization and titled Greater Des Moines Botanical Garden.
+In 1929 a public garden in Des Moines was first formed. After the stock market crash, it was hard to make any progress on this tiny garden. However, a Friends organization started in 1969, which is what is now known as the Des Moines Botanical Center, which finally opened in 1979. This garden was run by the City of Des Moines Parks and Recreation Department. In 2004 it changed management to the Des Moines Water Works, which renamed it to the Des Moines Botanical and Environmental Center. However, that management ended in 2012 and it is now a nonprofit organization and titled Greater Des Moines Botanical Garden.
 
 What's Inside?
 --------------
-| **Conservatory**
+| **Conservatory/Indoor Gardens**
 | The consevatory has been in the Botanical Gardens since its opening in 1979. It contains the Desert Garden, which features cacti and other succulents. The topical plantings contain a star fruit tree, a tapeworm plant, a chenille plant, and the traveler's palm. There are a couple art pieces displayed as well - "Iowa Wildflowers" and a trowel by local artist, Jon Hrabe. There is a waterfall along with Koi included in this indoor garden.
 |
 | **Outdoor Gardens**
@@ -27,7 +27,7 @@ Contact
 | Hours: 10 A.M. - 5 P.M.
 | Phone Number: (515)323-6290
 |
-| `Visit the Webpage`_ 
-.. _Visit the Webpage: http://www.dmbotanicalgarden.com/
+| `Visit the Botanical Garden Webpage`_ 
+.. _Visit the Botanical Garden Webpage: http://www.dmbotanicalgarden.com/
 
 
