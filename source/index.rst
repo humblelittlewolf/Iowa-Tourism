@@ -18,6 +18,7 @@ Contents:
    grottoredemption/grottoredemption.rst
    ledgesstatepark/ledgesstatepark.rst
    maquoketacaves/maquoketacaves.rst
+   easterniowa/easterniowa.rst
 
 
 
