@@ -1,5 +1,5 @@
 .. Grotto of the Redemption page - Paul Whalen
-Grotto of the Redemption
+# Grotto of the Redemption
 ==========================
 
 Around the turn of the century over one hundred years ago, 
