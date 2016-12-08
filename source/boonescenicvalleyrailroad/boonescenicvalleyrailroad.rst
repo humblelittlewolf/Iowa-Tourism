@@ -1,6 +1,13 @@
 Boone Scenic Valley Railroad
 ============================
 
+.. image:: rr.png
+	:height: 300px
+	:align: center
+
+History of the Boone Railroad
+-----------------------------
+
 Contact Information
 -------------------
 
