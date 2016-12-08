@@ -36,8 +36,8 @@ Attractions
   blankets of all sizes. They are all made here in the midwest by the Amana Woolen 
   Mill, which has survived fires, floods, and wind storms.
 
-Contact
---------
+Contact Information
+-------------------
 | Location: 622 46th Ave, Amana, IA 52203
 | Hours: 9:00 A.M. - 8:00 P.M.
 | Phone Number: (319)622-7622

@@ -37,8 +37,8 @@ What's Inside
   Eruasian blubs, wisteria flowers, cacti, conifers, and orchids.
 
 
-Contact
---------
+Contact Information
+---------------------
 | Location: 909 Robert D. Ray Drive Des Moines, IA 50309
 | Hours: 10 A.M. - 5 P.M.
 | Phone Number: (515)323-6290

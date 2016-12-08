@@ -36,8 +36,8 @@ Things to Do
   nature and some fresh scenery.
 
 
-Contact
----------
+Contact Information
+---------------------
 | Location: 10970 98th St, Maquoketa, IA 52060
 | Hours: 4:30 A.M. - 10:00 P.M.
 | Phone Number: (563)652-5833
