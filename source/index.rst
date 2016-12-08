@@ -16,4 +16,5 @@ Contents:
    amanacolonies/amanacolonies.rst
    maquoketacaves/maquoketacaves.rst
    boonescenicvalleyrailroad/boonescenicvalleyrailroad.rst
+   easterniowa/easterniowa.rst
    
