@@ -2,6 +2,7 @@
 
 #The American Gothic House
 =========================
+.. image:: americangothicbutchered.png
 
 ##Background
 ----------
