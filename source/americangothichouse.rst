@@ -1,1 +1,0 @@
-American gothic house page - Paul Whalen

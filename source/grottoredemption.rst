@@ -1,1 +1,0 @@
-Grotto of the Redemption page - Paul Whalen
