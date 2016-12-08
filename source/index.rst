@@ -15,4 +15,5 @@ Contents:
    ledgesstatepark/ledgesstatepark.rst
    amanacolonies/amanacolonies.rst
    maquoketacaves/maquoketacaves.rst
+   boonescenicvalleyrailroad/boonescenicvalleyrailroad.rst
    
