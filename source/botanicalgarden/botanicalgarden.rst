@@ -1,8 +1,7 @@
 Greater Des Moines Botanical Garden
 ===================================
 
-.. image:: example.jpg
-	:height: 400px
+.. image:: botanicalgarden.jpg
 	:align: center
 
 About
