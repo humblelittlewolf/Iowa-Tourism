@@ -11,10 +11,13 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   americangothichouse/americangothichouse.rst
+   artcenter/artcenter.rst
    botanicalgarden/botanicalgarden.rst
    ledgesstatepark/ledgesstatepark.rst
    amanacolonies/amanacolonies.rst
    maquoketacaves/maquoketacaves.rst
+   grottoredemption/grottoredemption.rst
    boonescenicvalleyrailroad/boonescenicvalleyrailroad.rst
    easterniowa/easterniowa.rst
    
