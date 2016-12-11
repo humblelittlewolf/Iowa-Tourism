@@ -34,10 +34,8 @@ The Des Moines River flows through the west edge of the park and offers fine str
 
 Contact Information
 -------------------
- 1515 P Ave.
-
- Madrid, IA 50156
-
- Phone: 515-432-1852
+ | 1515 P Ave. Madrid, IA 50156
+ | Hours: 8-5 weekdays
+ | Phone: 515-432-1852
 
 `Visit the DNR webpage for Ledges State Park <http://www.iowadnr.gov/Places-to-Go/State-Parks-Rec-Areas/Iowas-State-Parks/ParkDetails/ParkID/610148/>`_

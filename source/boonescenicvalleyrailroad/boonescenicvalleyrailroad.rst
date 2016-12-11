@@ -47,10 +47,7 @@ Are reservations required?
 Contact Information
 -------------------
 
- 225 10th Street
- 
- Boone, Iowa
- 
- Phone: 800-626-0319
- 
- info@bsvrr.com
+ | 225 10th Street Boone, Iowa
+ | Hours: 8:30-4:30 weekdays
+ | Phone: 800-626-0319
+ | info@bsvrr.com
