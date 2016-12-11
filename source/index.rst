@@ -14,10 +14,13 @@ Contents:
    americangothichouse/americangothichouse.rst
    artcenter/artcenter.rst
    botanicalgarden/botanicalgarden.rst
-   ledgesstatepark/ledgesstatepark.rst
    amanacolonies/amanacolonies.rst
    maquoketacaves/maquoketacaves.rst
    grottoredemption/grottoredemption.rst
+   ledgesstatepark/ledgesstatepark.rst
    boonescenicvalleyrailroad/boonescenicvalleyrailroad.rst
+   kingspointe/kingspointe.rst
+   westerniowa/westerniowa.rst
    easterniowa/easterniowa.rst
+
    
