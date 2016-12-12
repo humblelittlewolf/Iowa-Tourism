@@ -1,6 +1,9 @@
 .. Iowa Art Center page - Paul Whalen
 Des Moines Art Center
 ======================
+
+.. image:: artcenter.png
+ :align: center
  
 The Des Moines Art Center, one of the most prominent art galleries in Des Moines, 
 features many works of art from both Iowan artists and artists from all around, 
