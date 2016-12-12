@@ -24,5 +24,6 @@ to allow for easy access to the surrounding area. The park is open from sunrise 
 every day of the year, and is also open for picnics.
 
 The John and Mary PappaJohn Sculpture Park is located at 1330 Grand Avenue, Des Moines, Iowa 50309.
+
 **If you would like to learn more about the Des Moines Art Center or the PappaJohn Sculpture Park, 
 please visit the [Official Website Here][http://www.desmoinesartcenter.org/]. **
