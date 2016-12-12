@@ -26,5 +26,4 @@ Contact Info
 Address: 301 American Gothic St, Eldon, IA 52554
 Phone: (641) 652-3352
  
-'Visit the American Gothic House website for more information'_
-.. _Visit the American Gothic House website for more information: http://www.americangothichouse.net/
+`Visit the American Gothic House website for more information <http://www.americangothichouse.net/>`_.
