@@ -2,6 +2,9 @@
 Grotto of the Redemption
 ==========================
 
+.. image:: grotto_edited.png
+ :align: center
+
 Around the turn of the century over one hundred years ago, 
 a young German American Catholic priest, stricken with pneumonia, 
 vowed to build a shrine to the Virgin Mary if she would heal him of his illness. 
